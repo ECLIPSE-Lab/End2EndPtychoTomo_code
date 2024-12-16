@@ -1,0 +1,50 @@
+--algorithm:p
+--interp-factor-x:1
+--interp-factor-y:1
+--input-file:/home/shengbo/PycharmProjects/nano_particles/NanoParticle_3nm_Oxygen_Rotation0degree.xyz
+--output-file:/home/shengbo/PycharmProjects/nano_particles/PtAl2O3_3nm_Oxygen_Rotation_1FP.h5
+--num-threads:16
+--pixel-size-x:0.05
+--pixel-size-y:0.05
+--potential-bound:1
+--num-FP:1
+--slice-thickness:0.05
+--num-slices:0
+--zstart-slices:0
+--energy:200
+--alpha-max:25
+--batch-size-cpu:256
+--probe-step-x:10
+--probe-step-y:10
+--cell-dimension:32.246 32.246 32.246
+--tile-uc:1 1 1
+--probe-defocus:-30
+-C3:0
+-C5:nan
+--probe-semiangle:25
+--detector-angle-step:2
+--probe-xtilt:0
+--probe-ytilt:0
+--scan-window-x:0.51 0.52
+--scan-window-y:0.51 0.52
+--scan-window-xr:0 0
+--scan-window-yr:0 0
+--random-seed:51012
+--4D-amax:100
+--save-2D-output:30 200
+--thermal-effects:1
+--occupancy:1
+--save-3D-output:0
+--save-4D-output:1
+--4D-crop:0
+--save-DPC-CoM:0
+--save-potential-slices:1
+--save-smatrix:0
+--save-probe:1
+--import-potential:0
+--import-smatrix:0
+--nyquist-sampling:0
+--also-do-cpu-work:0
+--batch-size-gpu:256
+--num-gpus:1
+--num-streams:4

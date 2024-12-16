@@ -1,0 +1,868 @@
+##############################################################################
+###                                                                        ###
+###           Full Paper (Acta Crystallographica Section C)                ###
+###                                                                        ###
+##############################################################################
+#                                                                            #
+# This CIF contains the data in a paper accepted for publication in Acta     #
+# Crystallographica Section C. It conforms to the editorial and technical    #
+# requirements of Notes for Authors for Section C, and has been peer         #
+# reviewed under the auspices of the IUCr Commission on Journals.            #
+#                                                                            #
+# Full details of the Crystallographic Information File format               #
+# are given in the paper "The Crystallographic Information File (CIF):       #
+# a New Standard Archive File for Crystallography" by S. R. Hall, F. H.      #
+# Allen and I. D. Brown [Acta Cryst. (1991), A47, 655-685].                  #
+#                                                                            #
+# The current version of the core CIF dictionary is obtainable from          #
+# ftp://ftp.iucr.org/pub/cif_core.dic. The current version number is 2.1.    #
+#                                                                            #
+# Software is freely available for graphical display of the structure(s) in  #
+# this CIF.  For information consult the CIF home page http://www.iucr.org/  #
+# cif/home.html                                                              #
+#                                                                            #
+#            Copyright International Union of Crystallography                #
+#                                                                            #
+##############################################################################
+data_I
+_audit_creation_method     SHELXL-97
+_chemical_name_systematic     ?
+_chemical_name_common     'gamma alumina'
+_chemical_formula_moiety     'Al2.67 O4'
+_chemical_formula_sum     'Al2.67 O4'
+_chemical_formula_weight     135.94
+_chemical_melting_point     ?
+_symmetry_cell_setting     cubic
+_symmetry_space_group_name_H-M     'F d -3 m'
+_symmetry_space_group_name_Hall     '-F 4vw 2vw 3'
+loop_
+    _symmetry_equiv_pos_as_xyz
+    'x, y, z'
+    '-x+3/4, -y+1/4, z+1/2'
+    '-x+1/4, y+1/2, -z+3/4'
+    'x+1/2, -y+3/4, -z+1/4'
+    'z, x, y'
+    'z+1/2, -x+3/4, -y+1/4'
+    '-z+3/4, -x+1/4, y+1/2'
+    '-z+1/4, x+1/2, -y+3/4'
+    'y, z, x'
+    '-y+1/4, z+1/2, -x+3/4'
+    'y+1/2, -z+3/4, -x+1/4'
+    '-y+3/4, -z+1/4, x+1/2'
+    'y+3/4, x+1/4, -z+1/2'
+    '-y, -x, -z'
+    'y+1/4, -x+1/2, z+3/4'
+    '-y+1/2, x+3/4, z+1/4'
+    'x+3/4, z+1/4, -y+1/2'
+    '-x+1/2, z+3/4, y+1/4'
+    '-x, -z, -y'
+    'x+1/4, -z+1/2, y+3/4'
+    'z+3/4, y+1/4, -x+1/2'
+    'z+1/4, -y+1/2, x+3/4'
+    '-z+1/2, y+3/4, x+1/4'
+    '-z, -y, -x'
+    'x, y+1/2, z+1/2'
+    '-x+3/4, -y+3/4, z+1'
+    '-x+1/4, y+1, -z+5/4'
+    'x+1/2, -y+5/4, -z+3/4'
+    'z, x+1/2, y+1/2'
+    'z+1/2, -x+5/4, -y+3/4'
+    '-z+3/4, -x+3/4, y+1'
+    '-z+1/4, x+1, -y+5/4'
+    'y, z+1/2, x+1/2'
+    '-y+1/4, z+1, -x+5/4'
+    'y+1/2, -z+5/4, -x+3/4'
+    '-y+3/4, -z+3/4, x+1'
+    'y+3/4, x+3/4, -z+1'
+    '-y, -x+1/2, -z+1/2'
+    'y+1/4, -x+1, z+5/4'
+    '-y+1/2, x+5/4, z+3/4'
+    'x+3/4, z+3/4, -y+1'
+    '-x+1/2, z+5/4, y+3/4'
+    '-x, -z+1/2, -y+1/2'
+    'x+1/4, -z+1, y+5/4'
+    'z+3/4, y+3/4, -x+1'
+    'z+1/4, -y+1, x+5/4'
+    '-z+1/2, y+5/4, x+3/4'
+    '-z, -y+1/2, -x+1/2'
+    'x+1/2, y, z+1/2'
+    '-x+5/4, -y+1/4, z+1'
+    '-x+3/4, y+1/2, -z+5/4'
+    'x+1, -y+3/4, -z+3/4'
+    'z+1/2, x, y+1/2'
+    'z+1, -x+3/4, -y+3/4'
+    '-z+5/4, -x+1/4, y+1'
+    '-z+3/4, x+1/2, -y+5/4'
+    'y+1/2, z, x+1/2'
+    '-y+3/4, z+1/2, -x+5/4'
+    'y+1, -z+3/4, -x+3/4'
+    '-y+5/4, -z+1/4, x+1'
+    'y+5/4, x+1/4, -z+1'
+    '-y+1/2, -x, -z+1/2'
+    'y+3/4, -x+1/2, z+5/4'
+    '-y+1, x+3/4, z+3/4'
+    'x+5/4, z+1/4, -y+1'
+    '-x+1, z+3/4, y+3/4'
+    '-x+1/2, -z, -y+1/2'
+    'x+3/4, -z+1/2, y+5/4'
+    'z+5/4, y+1/4, -x+1'
+    'z+3/4, -y+1/2, x+5/4'
+    '-z+1, y+3/4, x+3/4'
+    '-z+1/2, -y, -x+1/2'
+    'x+1/2, y+1/2, z'
+    '-x+5/4, -y+3/4, z+1/2'
+    '-x+3/4, y+1, -z+3/4'
+    'x+1, -y+5/4, -z+1/4'
+    'z+1/2, x+1/2, y'
+    'z+1, -x+5/4, -y+1/4'
+    '-z+5/4, -x+3/4, y+1/2'
+    '-z+3/4, x+1, -y+3/4'
+    'y+1/2, z+1/2, x'
+    '-y+3/4, z+1, -x+3/4'
+    'y+1, -z+5/4, -x+1/4'
+    '-y+5/4, -z+3/4, x+1/2'
+    'y+5/4, x+3/4, -z+1/2'
+    '-y+1/2, -x+1/2, -z'
+    'y+3/4, -x+1, z+3/4'
+    '-y+1, x+5/4, z+1/4'
+    'x+5/4, z+3/4, -y+1/2'
+    '-x+1, z+5/4, y+1/4'
+    '-x+1/2, -z+1/2, -y'
+    'x+3/4, -z+1, y+3/4'
+    'z+5/4, y+3/4, -x+1/2'
+    'z+3/4, -y+1, x+3/4'
+    '-z+1, y+5/4, x+1/4'
+    '-z+1/2, -y+1/2, -x'
+    '-x, -y, -z'
+    'x-3/4, y-1/4, -z-1/2'
+    'x-1/4, -y-1/2, z-3/4'
+    '-x-1/2, y-3/4, z-1/4'
+    '-z, -x, -y'
+    '-z-1/2, x-3/4, y-1/4'
+    'z-3/4, x-1/4, -y-1/2'
+    'z-1/4, -x-1/2, y-3/4'
+    '-y, -z, -x'
+    'y-1/4, -z-1/2, x-3/4'
+    '-y-1/2, z-3/4, x-1/4'
+    'y-3/4, z-1/4, -x-1/2'
+    '-y-3/4, -x-1/4, z-1/2'
+    'y, x, z'
+    '-y-1/4, x-1/2, -z-3/4'
+    'y-1/2, -x-3/4, -z-1/4'
+    '-x-3/4, -z-1/4, y-1/2'
+    'x-1/2, -z-3/4, -y-1/4'
+    'x, z, y'
+    '-x-1/4, z-1/2, -y-3/4'
+    '-z-3/4, -y-1/4, x-1/2'
+    '-z-1/4, y-1/2, -x-3/4'
+    'z-1/2, -y-3/4, -x-1/4'
+    'z, y, x'
+    '-x, -y+1/2, -z+1/2'
+    'x-3/4, y+1/4, -z'
+    'x-1/4, -y, z-1/4'
+    '-x-1/2, y-1/4, z+1/4'
+    '-z, -x+1/2, -y+1/2'
+    '-z-1/2, x-1/4, y+1/4'
+    'z-3/4, x+1/4, -y'
+    'z-1/4, -x, y-1/4'
+    '-y, -z+1/2, -x+1/2'
+    'y-1/4, -z, x-1/4'
+    '-y-1/2, z-1/4, x+1/4'
+    'y-3/4, z+1/4, -x'
+    '-y-3/4, -x+1/4, z'
+    'y, x+1/2, z+1/2'
+    '-y-1/4, x, -z-1/4'
+    'y-1/2, -x-1/4, -z+1/4'
+    '-x-3/4, -z+1/4, y'
+    'x-1/2, -z-1/4, -y+1/4'
+    'x, z+1/2, y+1/2'
+    '-x-1/4, z, -y-1/4'
+    '-z-3/4, -y+1/4, x'
+    '-z-1/4, y, -x-1/4'
+    'z-1/2, -y-1/4, -x+1/4'
+    'z, y+1/2, x+1/2'
+    '-x+1/2, -y, -z+1/2'
+    'x-1/4, y-1/4, -z'
+    'x+1/4, -y-1/2, z-1/4'
+    '-x, y-3/4, z+1/4'
+    '-z+1/2, -x, -y+1/2'
+    '-z, x-3/4, y+1/4'
+    'z-1/4, x-1/4, -y'
+    'z+1/4, -x-1/2, y-1/4'
+    '-y+1/2, -z, -x+1/2'
+    'y+1/4, -z-1/2, x-1/4'
+    '-y, z-3/4, x+1/4'
+    'y-1/4, z-1/4, -x'
+    '-y-1/4, -x-1/4, z'
+    'y+1/2, x, z+1/2'
+    '-y+1/4, x-1/2, -z-1/4'
+    'y, -x-3/4, -z+1/4'
+    '-x-1/4, -z-1/4, y'
+    'x, -z-3/4, -y+1/4'
+    'x+1/2, z, y+1/2'
+    '-x+1/4, z-1/2, -y-1/4'
+    '-z-1/4, -y-1/4, x'
+    '-z+1/4, y-1/2, -x-1/4'
+    'z, -y-3/4, -x+1/4'
+    'z+1/2, y, x+1/2'
+    '-x+1/2, -y+1/2, -z'
+    'x-1/4, y+1/4, -z-1/2'
+    'x+1/4, -y, z-3/4'
+    '-x, y-1/4, z-1/4'
+    '-z+1/2, -x+1/2, -y'
+    '-z, x-1/4, y-1/4'
+    'z-1/4, x+1/4, -y-1/2'
+    'z+1/4, -x, y-3/4'
+    '-y+1/2, -z+1/2, -x'
+    'y+1/4, -z, x-3/4'
+    '-y, z-1/4, x-1/4'
+    'y-1/4, z+1/4, -x-1/2'
+    '-y-1/4, -x+1/4, z-1/2'
+    'y+1/2, x+1/2, z'
+    '-y+1/4, x, -z-3/4'
+    'y, -x-1/4, -z-1/4'
+    '-x-1/4, -z+1/4, y-1/2'
+    'x, -z-1/4, -y-1/4'
+    'x+1/2, z+1/2, y'
+    '-x+1/4, z, -y-3/4'
+    '-z-1/4, -y+1/4, x-1/2'
+    '-z+1/4, y, -x-3/4'
+    'z, -y-1/4, -x-1/4'
+    'z+1/2, y+1/2, x'
+_cell_length_a     7.93820(10)
+_cell_length_b     7.93820(10)
+_cell_length_c     7.93820(10)
+_cell_angle_alpha     90.00
+_cell_angle_beta     90.00
+_cell_angle_gamma     90.00
+_cell_volume     500.226(11)
+_cell_formula_units_Z     8
+_cell_measurement_reflns_used     2395
+_cell_measurement_theta_min     4.45
+_cell_measurement_theta_max     45.19
+_cell_measurement_temperature     173(2)
+_exptl_crystal_description     needle
+_exptl_crystal_colour     colourless
+_exptl_crystal_size_max     0.58
+_exptl_crystal_size_mid     0.06
+_exptl_crystal_size_min     0.06
+_exptl_crystal_density_diffrn     3.610
+_exptl_crystal_density_meas     ?
+_exptl_crystal_density_method     'not measured'
+_exptl_crystal_F_000     533
+_exptl_absorpt_coefficient_mu     1.184
+_exptl_absorpt_correction_type     'multi-scan'
+_exptl_absorpt_process_details     '(SADABS; Sheldrick, 2003)'
+_exptl_absorpt_correction_T_min     0.5466
+_exptl_absorpt_correction_T_max     0.9323
+_exptl_special_details
+;
+ ?
+;
+_diffrn_ambient_temperature     173(2)
+_diffrn_radiation_type     MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_radiation_source     'fine-focus sealed tube'
+_diffrn_radiation_monochromator     graphite
+_diffrn_measurement_device_type     'Bruker SMART CCD area-detector'
+_diffrn_measurement_method     '\w scans'
+_diffrn_detector_area_resol_mean     ?
+_diffrn_reflns_number     4211
+_diffrn_reflns_av_R_equivalents     0.0208
+_diffrn_reflns_av_sigmaI/netI     0.0062
+_diffrn_reflns_theta_min     4.45
+_diffrn_reflns_theta_max     45.17
+_diffrn_reflns_theta_full     45.17
+_diffrn_measured_fraction_theta_max     1.000
+_diffrn_measured_fraction_theta_full     1.000
+_diffrn_reflns_limit_h_min     -15
+_diffrn_reflns_limit_h_max     14
+_diffrn_reflns_limit_k_min     -15
+_diffrn_reflns_limit_k_max     15
+_diffrn_reflns_limit_l_min     -15
+_diffrn_reflns_limit_l_max     14
+_diffrn_standards_number     0
+_diffrn_standards_interval_count     ?
+_diffrn_standards_interval_time     ?
+_diffrn_standards_decay_%     0
+_refine_special_details
+;
+ Refinement of F^2^ against ALL reflections.  The weighted R-factor wR and
+ goodness of fit S are based on F^2^, conventional R-factors R are based
+ on F, with F set tO1 zerO1 for negative F^2^. The threshold expression of
+ F^2^ > 2sigma(F^2^) is used only for calculating R-factors(gt) etc. and is
+ not relevant tO1 the choice of reflections for refinement.  R-factors based
+ on F^2^ are statistically about twice as large as those based on F, and R-
+ factors based on ALL data will be even larger.
+;
+_reflns_number_total     129
+_reflns_number_gt     119
+_reflns_threshold_expression     I>2\s(I)
+_refine_ls_structure_factor_coef     Fsqd
+_refine_ls_matrix_type     full
+_refine_ls_R_factor_all     0.0280
+_refine_ls_R_factor_gt     0.0265
+_refine_ls_wR_factor_gt     0.0978
+_refine_ls_wR_factor_ref     0.1004
+_refine_ls_goodness_of_fit_ref     0.983
+_refine_ls_restrained_S_all     0.979
+_refine_ls_number_reflns     129
+_refine_ls_number_parameters     17
+_refine_ls_number_restraints     1
+_refine_ls_hydrogen_treatment     .
+_refine_ls_weighting_scheme     calc
+_refine_ls_weighting_details
+         'calc w=1/[\s^2^(Fo^2^)+(0.0726P)^2^+1.4303P] where P=(Fo^2^+2Fc^2^)/3'
+_atom_sites_solution_hydrogens     geom
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary     difmap
+_refine_ls_shift/su_max     0.012
+_refine_ls_shift/su_mean     0.001
+_refine_diff_density_max     0.418
+_refine_diff_density_min     -0.584
+_refine_ls_extinction_method     none
+_refine_ls_extinction_coef     ?
+loop_
+    _atom_type_symbol
+    _atom_type_description
+    _atom_type_scat_dispersion_real
+    _atom_type_scat_dispersion_imag
+    _atom_type_scat_source
+    'O' 'O' 0.0106 0.0060
+                         'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+    'Al' 'Al' 0.0645 0.0514
+                         'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+_computing_data_collection     'SMART (Bruker, 2003)'
+_computing_cell_refinement     'SAINT (Bruker, 2003)'
+_computing_data_reduction     'SAINT and SADABS (Sheldrick, 2003)'
+_computing_structure_solution     'SHELXTL (Bruker, 2001)'
+_computing_structure_refinement     'SHELXTL'
+_computing_molecular_graphics     none
+_computing_publication_material     'PLATON (Spek, 2003)'
+loop_
+    _atom_site_type_symbol
+    _atom_site_label
+    _atom_site_fract_x
+    _atom_site_fract_y
+    _atom_site_fract_z
+    _atom_site_U_iso_or_equiv
+    _atom_site_adp_type
+    _atom_site_calc_flag
+    _atom_site_refinement_flags
+    _atom_site_occupancy
+    _atom_site_disorder_assembly
+    _atom_site_disorder_group
+    Al Al1 0.1250 0.1250 0.1250 0.0062(3) Uani d SP 0.8633(5) . .
+    Al Al2 0.5000 0.5000 0.5000 0.0092(3) Uani d SP 0.816(5) . .
+    O1 O1 0.25673(10) 0.25673(10) 0.25673(10) 0.0111(3) Uani d S 1 . .
+    Al Al3 0.0000 0.0000 0.0000 0.009(6) Uani d SP 0.028(5) . .
+    Al Al4 -0.123(3) 0.1250 0.1250 0.006(5) Uani d SP 0.019(2) . .
+loop_
+    _atom_site_aniso_label
+    _atom_site_aniso_U_11
+    _atom_site_aniso_U_22
+    _atom_site_aniso_U_33
+    _atom_site_aniso_U_12
+    _atom_site_aniso_U_13
+    _atom_site_aniso_U_23
+    Al1 0.0062(3) 0.0062(3) 0.0062(3) 0.000 0.000 0.000
+    Al2 0.0092(3) 0.0092(3) 0.0092(3) -0.00008(12) -0.00008(12) -0.00008(12)
+    O1 0.0111(3) 0.0111(3) 0.0111(3) 0.00055(16) 0.00055(16) 0.00055(16)
+    Al3 0.009(6) 0.009(6) 0.009(6) 0.001(3) 0.001(3) 0.001(3)
+    Al4 0.005(7) 0.006(6) 0.006(6) 0.000 0.000 0.003(5)
+_geom_special_details
+;
+ All esds (except the esd in the dihedral angle between twO1 l.s. planes)
+ are estimated using the full covariance matrix.  The cell esds are taken
+ intO1 account individually in the estimation of esds in distances, angles
+ and torsion angles; correlations between esds in cell parameters are only
+ used when they are defined by crystal symmetry.  An approximate (isotropic)
+ treatment of cell esds is used for estimating esds involving l.s. planes.
+;
+loop_
+    _geom_bond_atom_site_label_1
+    _geom_bond_atom_site_label_2
+    _geom_bond_site_symmetry_2
+    _geom_bond_distance
+    _geom_bond_publ_flag
+    Al1 Al3 27_544 1.7187 ?
+    Al1 Al3 50_454 1.7187 ?
+    Al1 Al3 . 1.7187 ?
+    Al1 Al3 76_445 1.7187 ?
+    Al1 O1 76_445 1.8112(14) ?
+    Al1 O1 50_454 1.8112(14) ?
+    Al1 O1 27_544 1.8112(14) ?
+    Al1 O1 . 1.8113(14) ?
+    Al1 Al4 50_454 1.97(2) ?
+    Al1 Al4 34_544 1.97(2) ?
+    Al1 Al4 9 1.97(2) ?
+    Al1 Al4 78_445 1.97(2) ?
+    Al2 Al4 170_656 1.728(12) ?
+    Al2 Al4 58_554 1.728(12) ?
+    Al2 Al4 30_545 1.728(12) ?
+    Al2 Al4 154_566 1.728(12) ?
+    Al2 Al4 126_665 1.728(12) ?
+    Al2 Al4 74_455 1.728(12) ?
+    Al2 O1 148_665 1.9326(8) ?
+    Al2 O1 171_566 1.9326(8) ?
+    Al2 O1 122_656 1.9326(8) ?
+    Al2 O1 26_554 1.9326(8) ?
+    Al2 O1 75_545 1.9326(8) ?
+    Al2 O1 52_455 1.9326(8) ?
+    O1 Al4 177 1.700(12) ?
+    O1 Al4 149 1.700(12) ?
+    O1 Al4 121 1.700(12) ?
+    O1 Al4 50_454 1.743(10) ?
+    O1 Al4 34_544 1.743(10) ?
+    O1 Al4 78_445 1.743(10) ?
+    O1 Al2 52_455 1.9325(8) ?
+    O1 Al2 26_554 1.9326(8) ?
+    O1 Al2 75_545 1.9326(8) ?
+    O1 Al3 50_454 2.0394(8) ?
+    O1 Al3 27_544 2.0394(8) ?
+    Al3 Al4 9 1.710(12) ?
+    Al3 Al4 5 1.710(12) ?
+    Al3 Al4 97 1.710(12) ?
+    Al3 Al4 . 1.710(12) ?
+    Al3 Al4 105 1.710(12) ?
+    Al3 Al4 101 1.710(12) ?
+    Al3 Al1 97 1.7187 ?
+    Al3 O1 76_445 2.0394(8) ?
+    Al3 O1 123 2.0394(8) ?
+    Al3 O1 146 2.0394(8) ?
+    Al3 O1 50_454 2.0394(8) ?
+    Al4 Al3 76_445 1.710(12) ?
+    Al4 O1 172 1.700(12) ?
+    Al4 O1 121 1.700(12) ?
+    Al4 Al2 3_545 1.728(12) ?
+    Al4 Al2 74_454 1.728(12) ?
+    Al4 O1 27_544 1.743(10) ?
+    Al4 O1 50_454 1.743(10) ?
+    Al4 Al4 106_566 1.9847(3) ?
+    Al4 Al4 105 1.9847(3) ?
+    Al4 Al4 150_565 1.9847(3) ?
+loop_
+    _geom_angle_atom_site_label_1
+    _geom_angle_atom_site_label_2
+    _geom_angle_atom_site_label_3
+    _geom_angle_site_symmetry_1
+    _geom_angle_site_symmetry_3
+    _geom_angle
+    _geom_angle_publ_flag
+    Al3 Al1 Al3 27_544 50_454 109.5 ?
+    Al3 Al1 Al3 27_544 . 109.5 ?
+    Al3 Al1 Al3 50_454 . 109.5 ?
+    Al3 Al1 Al3 27_544 76_445 109.5 ?
+    Al3 Al1 Al3 50_454 76_445 109.5 ?
+    Al3 Al1 Al3 . 76_445 109.5 ?
+    Al3 Al1 O1 27_544 76_445 70.5 ?
+    Al3 Al1 O1 50_454 76_445 70.5 ?
+    Al3 Al1 O1 . 76_445 70.5 ?
+    Al3 Al1 O1 76_445 76_445 180.00(2) ?
+    Al3 Al1 O1 27_544 50_454 70.5 ?
+    Al3 Al1 O1 50_454 50_454 180.00(2) ?
+    Al3 Al1 O1 . 50_454 70.5290(10)
+                                  ?
+    Al3 Al1 O1 76_445 50_454 70.5 ?
+    O1 Al1 O1 76_445 50_454 109.5 ?
+    Al3 Al1 O1 27_544 27_544 180.00(2) ?
+    Al3 Al1 O1 50_454 27_544 70.5 ?
+    Al3 Al1 O1 . 27_544 70.5 ?
+    Al3 Al1 O1 76_445 27_544 70.5 ?
+    O1 Al1 O1 76_445 27_544 109.5 ?
+    O1 Al1 O1 50_454 27_544 109.4700(10)
+                                       ?
+    Al3 Al1 O1 27_544 . 70.5 ?
+    Al3 Al1 O1 50_454 . 70.5 ?
+    Al3 Al1 O1 . . 180.00(2) ?
+    Al3 Al1 O1 76_445 . 70.5 ?
+    O1 Al1 O1 76_445 . 109.5 ?
+    O1 Al1 O1 50_454 . 109.4710(10)
+                                  ?
+    O1 Al1 O1 27_544 . 109.4710(10)
+                                  ?
+    Al3 Al1 Al4 27_544 50_454 54.7360(10)
+                                        ?
+    Al3 Al1 Al4 50_454 50_454 54.7360(10)
+                                        ?
+    Al3 Al1 Al4 . 50_454 125.3 ?
+    Al3 Al1 Al4 76_445 50_454 125.2650(10)
+                                         ?
+    O1 Al1 Al4 76_445 50_454 54.7 ?
+    O1 Al1 Al4 50_454 50_454 125.3 ?
+    O1 Al1 Al4 27_544 50_454 125.2650(10)
+                                        ?
+    O1 Al1 Al4 . 50_454 54.7360(10)
+                                  ?
+    Al3 Al1 Al4 27_544 34_544 54.7 ?
+    Al3 Al1 Al4 50_454 34_544 125.2650(10)
+                                         ?
+    Al3 Al1 Al4 . 34_544 125.2640(10)
+                                    ?
+    Al3 Al1 Al4 76_445 34_544 54.7 ?
+    O1 Al1 Al4 76_445 34_544 125.3 ?
+    O1 Al1 Al4 50_454 34_544 54.7 ?
+    O1 Al1 Al4 27_544 34_544 125.2640(10)
+                                        ?
+    O1 Al1 Al4 . 34_544 54.7360(10)
+                                  ?
+    Al4 Al1 Al4 50_454 34_544 90.0 ?
+    Al3 Al1 Al4 27_544 9 125.3 ?
+    Al3 Al1 Al4 50_454 9 54.7360(10)
+                                   ?
+    Al3 Al1 Al4 . 9 54.7 ?
+    Al3 Al1 Al4 76_445 9 125.2640(10)
+                                    ?
+    O1 Al1 Al4 76_445 9 54.7360(10)
+                                  ?
+    O1 Al1 Al4 50_454 9 125.2640(10)
+                                   ?
+    O1 Al1 Al4 27_544 9 54.7 ?
+    O1 Al1 Al4 . 9 125.2650(10)
+                              ?
+    Al4 Al1 Al4 50_454 9 90.0 ?
+    Al4 Al1 Al4 34_544 9 180.0 ?
+    Al3 Al1 Al4 27_544 78_445 125.2650(10)
+                                         ?
+    Al3 Al1 Al4 50_454 78_445 54.7 ?
+    Al3 Al1 Al4 . 78_445 125.3 ?
+    Al3 Al1 Al4 76_445 78_445 54.7 ?
+    O1 Al1 Al4 76_445 78_445 125.2650(10)
+                                        ?
+    O1 Al1 Al4 50_454 78_445 125.2640(10)
+                                        ?
+    O1 Al1 Al4 27_544 78_445 54.7 ?
+    O1 Al1 Al4 . 78_445 54.7360(10)
+                                  ?
+    Al4 Al1 Al4 50_454 78_445 90.0010(10)
+                                        ?
+    Al4 Al1 Al4 34_544 78_445 90.0000(10)
+                                        ?
+    Al4 Al1 Al4 9 78_445 90.0 ?
+    Al4 Al2 Al4 170_656 58_554 70.1(5) ?
+    Al4 Al2 Al4 170_656 30_545 70.1(5) ?
+    Al4 Al2 Al4 58_554 30_545 109.9(5) ?
+    Al4 Al2 Al4 170_656 154_566 109.9(5) ?
+    Al4 Al2 Al4 58_554 154_566 179.9990(10)
+                                          ?
+    Al4 Al2 Al4 30_545 154_566 70.1(5) ?
+    Al4 Al2 Al4 170_656 126_665 109.9(5) ?
+    Al4 Al2 Al4 58_554 126_665 70.1(5) ?
+    Al4 Al2 Al4 30_545 126_665 179.9990(10)
+                                          ?
+    Al4 Al2 Al4 154_566 126_665 109.9(5) ?
+    Al4 Al2 Al4 170_656 74_455 179.999(3) ?
+    Al4 Al2 Al4 58_554 74_455 109.9(5) ?
+    Al4 Al2 Al4 30_545 74_455 109.9(5) ?
+    Al4 Al2 Al4 154_566 74_455 70.1(5) ?
+    Al4 Al2 Al4 126_665 74_455 70.1(5) ?
+    Al4 Al2 O1 170_656 148_665 56.6(5) ?
+    Al4 Al2 O1 58_554 148_665 55.0(3) ?
+    Al4 Al2 O1 30_545 148_665 55.0(3) ?
+    Al4 Al2 O1 154_566 148_665 125.0(3) ?
+    Al4 Al2 O1 126_665 148_665 125.0(3) ?
+    Al4 Al2 O1 74_455 148_665 123.4(5) ?
+    Al4 Al2 O1 170_656 171_566 125.0(3) ?
+    Al4 Al2 O1 58_554 171_566 55.0(3) ?
+    Al4 Al2 O1 30_545 171_566 123.4(5) ?
+    Al4 Al2 O1 154_566 171_566 125.0(3) ?
+    Al4 Al2 O1 126_665 171_566 56.6(5) ?
+    Al4 Al2 O1 74_455 171_566 55.0(3) ?
+    O1 Al2 O1 148_665 171_566 86.79(5) ?
+    Al4 Al2 O1 170_656 122_656 125.0(3) ?
+    Al4 Al2 O1 58_554 122_656 123.4(5) ?
+    Al4 Al2 O1 30_545 122_656 55.0(3) ?
+    Al4 Al2 O1 154_566 122_656 56.6(5) ?
+    Al4 Al2 O1 126_665 122_656 125.0(3) ?
+    Al4 Al2 O1 74_455 122_656 55.0(3) ?
+    O1 Al2 O1 148_665 122_656 86.79(5) ?
+    O1 Al2 O1 171_566 122_656 86.79(5) ?
+    Al4 Al2 O1 170_656 26_554 55.0(3) ?
+    Al4 Al2 O1 58_554 26_554 56.6(5) ?
+    Al4 Al2 O1 30_545 26_554 125.0(3) ?
+    Al4 Al2 O1 154_566 26_554 123.4(5) ?
+    Al4 Al2 O1 126_665 26_554 55.0(3) ?
+    Al4 Al2 O1 74_455 26_554 125.0(3) ?
+    O1 Al2 O1 148_665 26_554 93.21(5) ?
+    O1 Al2 O1 171_566 26_554 93.21(5) ?
+    O1 Al2 O1 122_656 26_554 180.0 ?
+    Al4 Al2 O1 170_656 75_545 55.0(3) ?
+    Al4 Al2 O1 58_554 75_545 125.0(3) ?
+    Al4 Al2 O1 30_545 75_545 56.6(5) ?
+    Al4 Al2 O1 154_566 75_545 55.0(3) ?
+    Al4 Al2 O1 126_665 75_545 123.4(5) ?
+    Al4 Al2 O1 74_455 75_545 125.0(3) ?
+    O1 Al2 O1 148_665 75_545 93.21(5) ?
+    O1 Al2 O1 171_566 75_545 180.0 ?
+    O1 Al2 O1 122_656 75_545 93.21(5) ?
+    O1 Al2 O1 26_554 75_545 86.79(5) ?
+    Al4 Al2 O1 170_656 52_455 123.4(5) ?
+    Al4 Al2 O1 58_554 52_455 125.0(3) ?
+    Al4 Al2 O1 30_545 52_455 125.0(3) ?
+    Al4 Al2 O1 154_566 52_455 55.0(3) ?
+    Al4 Al2 O1 126_665 52_455 55.0(3) ?
+    Al4 Al2 O1 74_455 52_455 56.6(5) ?
+    O1 Al2 O1 148_665 52_455 180.0 ?
+    O1 Al2 O1 171_566 52_455 93.21(5) ?
+    O1 Al2 O1 122_656 52_455 93.21(5) ?
+    O1 Al2 O1 26_554 52_455 86.79(5) ?
+    O1 Al2 O1 75_545 52_455 86.79(5) ?
+    Al4 O1 Al4 177 149 112.6(5) ?
+    Al4 O1 Al4 177 121 112.6(5) ?
+    Al4 O1 Al4 149 121 112.6(5) ?
+    Al4 O1 Al4 177 50_454 70.38(2) ?
+    Al4 O1 Al4 149 50_454 70.38(2) ?
+    Al4 O1 Al4 121 50_454 173.3(11) ?
+    Al4 O1 Al4 177 34_544 173.3(11) ?
+    Al4 O1 Al4 149 34_544 70.38(2) ?
+    Al4 O1 Al4 121 34_544 70.38(2) ?
+    Al4 O1 Al4 50_454 34_544 106.0(6) ?
+    Al4 O1 Al4 177 78_445 70.38(2) ?
+    Al4 O1 Al4 149 78_445 173.3(11) ?
+    Al4 O1 Al4 121 78_445 70.38(2) ?
+    Al4 O1 Al4 50_454 78_445 106.0(6) ?
+    Al4 O1 Al4 34_544 78_445 106.0(6) ?
+    Al4 O1 Al1 177 . 106.1(6) ?
+    Al4 O1 Al1 149 . 106.1(6) ?
+    Al4 O1 Al1 121 . 106.1(6) ?
+    Al4 O1 Al1 50_454 . 67.2(6) ?
+    Al4 O1 Al1 34_544 . 67.2(6) ?
+    Al4 O1 Al1 78_445 . 67.2(6) ?
+    Al4 O1 Al2 177 52_455 56.4(3) ?
+    Al4 O1 Al2 149 52_455 56.4(3) ?
+    Al4 O1 Al2 121 52_455 130.9(6) ?
+    Al4 O1 Al2 50_454 52_455 55.8(6) ?
+    Al4 O1 Al2 34_544 52_455 126.7(2) ?
+    Al4 O1 Al2 78_445 52_455 126.7(2) ?
+    Al1 O1 Al2 . 52_455 123.02(3) ?
+    Al4 O1 Al2 177 26_554 130.9(6) ?
+    Al4 O1 Al2 149 26_554 56.4(3) ?
+    Al4 O1 Al2 121 26_554 56.4(3) ?
+    Al4 O1 Al2 50_454 26_554 126.7(2) ?
+    Al4 O1 Al2 34_544 26_554 55.8(6) ?
+    Al4 O1 Al2 78_445 26_554 126.7(2) ?
+    Al1 O1 Al2 . 26_554 123.02(3) ?
+    Al2 O1 Al2 52_455 26_554 93.13(5) ?
+    Al4 O1 Al2 177 75_545 56.4(3) ?
+    Al4 O1 Al2 149 75_545 130.9(6) ?
+    Al4 O1 Al2 121 75_545 56.4(3) ?
+    Al4 O1 Al2 50_454 75_545 126.7(2) ?
+    Al4 O1 Al2 34_544 75_545 126.7(2) ?
+    Al4 O1 Al2 78_445 75_545 55.8(6) ?
+    Al1 O1 Al2 . 75_545 123.02(3) ?
+    Al2 O1 Al2 52_455 75_545 93.13(5) ?
+    Al2 O1 Al2 26_554 75_545 93.13(5) ?
+    Al4 O1 Al3 177 50_454 53.5(5) ?
+    Al4 O1 Al3 149 50_454 123.4(3) ?
+    Al4 O1 Al3 121 50_454 123.4(3) ?
+    Al4 O1 Al3 50_454 50_454 53.0(3) ?
+    Al4 O1 Al3 34_544 50_454 119.8(6) ?
+    Al4 O1 Al3 78_445 50_454 53.0(3) ?
+    Al1 O1 Al3 . 50_454 52.61(3) ?
+    Al2 O1 Al3 52_455 50_454 89.876(4) ?
+    Al2 O1 Al3 26_554 50_454 175.63(7) ?
+    Al2 O1 Al3 75_545 50_454 89.875(4) ?
+    Al4 O1 Al3 177 27_544 123.4(3) ?
+    Al4 O1 Al3 149 27_544 53.5(5) ?
+    Al4 O1 Al3 121 27_544 123.4(3) ?
+    Al4 O1 Al3 50_454 27_544 53.0(3) ?
+    Al4 O1 Al3 34_544 27_544 53.0(3) ?
+    Al4 O1 Al3 78_445 27_544 119.8(6) ?
+    Al1 O1 Al3 . 27_544 52.61(3) ?
+    Al2 O1 Al3 52_455 27_544 89.876(4) ?
+    Al2 O1 Al3 26_554 27_544 89.875(4) ?
+    Al2 O1 Al3 75_545 27_544 175.63(7) ?
+    Al3 O1 Al3 50_454 27_544 86.96(5) ?
+    Al4 Al3 Al4 9 5 109.0(6) ?
+    Al4 Al3 Al4 9 97 71.0(6) ?
+    Al4 Al3 Al4 5 97 71.0(6) ?
+    Al4 Al3 Al4 9 . 109.0(6) ?
+    Al4 Al3 Al4 5 . 109.0(6) ?
+    Al4 Al3 Al4 97 . 179.9990(10)
+                                ?
+    Al4 Al3 Al4 9 105 180.0 ?
+    Al4 Al3 Al4 5 105 71.0(6) ?
+    Al4 Al3 Al4 97 105 109.0(6) ?
+    Al4 Al3 Al4 . 105 71.0(6) ?
+    Al4 Al3 Al4 9 101 71.0(6) ?
+    Al4 Al3 Al4 5 101 179.9990(10)
+                                 ?
+    Al4 Al3 Al4 97 101 109.0(6) ?
+    Al4 Al3 Al4 . 101 71.0(6) ?
+    Al4 Al3 Al4 105 101 109.0(6) ?
+    Al4 Al3 Al1 9 . 70.1(6) ?
+    Al4 Al3 Al1 5 . 70.1(6) ?
+    Al4 Al3 Al1 97 . 109.9(6) ?
+    Al4 Al3 Al1 . . 70.1(6) ?
+    Al4 Al3 Al1 105 . 109.9(6) ?
+    Al4 Al3 Al1 101 . 109.9(6) ?
+    Al4 Al3 Al1 9 97 109.9(6) ?
+    Al4 Al3 Al1 5 97 109.9(6) ?
+    Al4 Al3 Al1 97 97 70.1(6) ?
+    Al4 Al3 Al1 . 97 109.9(6) ?
+    Al4 Al3 Al1 105 97 70.1(6) ?
+    Al4 Al3 Al1 101 97 70.1(6) ?
+    Al1 Al3 Al1 . 97 180.0 ?
+    Al4 Al3 O1 9 76_445 54.6(3) ?
+    Al4 Al3 O1 5 76_445 54.6(3) ?
+    Al4 Al3 O1 97 76_445 53.0(5) ?
+    Al4 Al3 O1 . 76_445 127.0(5) ?
+    Al4 Al3 O1 105 76_445 125.4(3) ?
+    Al4 Al3 O1 101 76_445 125.4(3) ?
+    Al1 Al3 O1 . 76_445 56.86(3) ?
+    Al1 Al3 O1 97 76_445 123.14(3) ?
+    Al4 Al3 O1 9 123 125.4(3) ?
+    Al4 Al3 O1 5 123 53.0(5) ?
+    Al4 Al3 O1 97 123 54.6(3) ?
+    Al4 Al3 O1 . 123 125.4(3) ?
+    Al4 Al3 O1 105 123 54.6(3) ?
+    Al4 Al3 O1 101 123 127.0(5) ?
+    Al1 Al3 O1 . 123 123.14(3) ?
+    Al1 Al3 O1 97 123 56.86(3) ?
+    O1 Al3 O1 76_445 123 87.04(4) ?
+    Al4 Al3 O1 9 146 53.0(5) ?
+    Al4 Al3 O1 5 146 125.4(3) ?
+    Al4 Al3 O1 97 146 54.6(3) ?
+    Al4 Al3 O1 . 146 125.4(3) ?
+    Al4 Al3 O1 105 146 127.0(5) ?
+    Al4 Al3 O1 101 146 54.6(3) ?
+    Al1 Al3 O1 . 146 123.14(3) ?
+    Al1 Al3 O1 97 146 56.86(3) ?
+    O1 Al3 O1 76_445 146 87.04(4) ?
+    O1 Al3 O1 123 146 92.96(4) ?
+    Al4 Al3 O1 9 50_454 127.0(5) ?
+    Al4 Al3 O1 5 50_454 54.6(3) ?
+    Al4 Al3 O1 97 50_454 125.4(3) ?
+    Al4 Al3 O1 . 50_454 54.6(3) ?
+    Al4 Al3 O1 105 50_454 53.0(5) ?
+    Al4 Al3 O1 101 50_454 125.4(3) ?
+    Al1 Al3 O1 . 50_454 56.86(3) ?
+    Al1 Al3 O1 97 50_454 123.14(3) ?
+    O1 Al3 O1 76_445 50_454 92.96(4) ?
+    O1 Al3 O1 123 50_454 87.04(4) ?
+    O1 Al3 O1 146 50_454 180.00(4) ?
+    Al3 Al4 Al3 76_445 . 110.3(11) ?
+    Al3 Al4 O1 76_445 172 176.2(11) ?
+    Al3 Al4 O1 . 172 73.48(4) ?
+    Al3 Al4 O1 76_445 121 73.47(4) ?
+    Al3 Al4 O1 . 121 176.2(11) ?
+    O1 Al4 O1 172 121 102.7(11) ?
+    Al3 Al4 Al2 76_445 3_545 109.466(15) ?
+    Al3 Al4 Al2 . 3_545 109.466(16) ?
+    O1 Al4 Al2 172 3_545 68.6(6) ?
+    O1 Al4 Al2 121 3_545 68.6(6) ?
+    Al3 Al4 Al2 76_445 74_454 109.466(15) ?
+    Al3 Al4 Al2 . 74_454 109.466(16) ?
+    O1 Al4 Al2 172 74_454 68.6(6) ?
+    O1 Al4 Al2 121 74_454 68.6(6) ?
+    Al2 Al4 Al2 3_545 74_454 108.6(11) ?
+    Al3 Al4 O1 76_445 27_544 72.4(5) ?
+    Al3 Al4 O1 . 27_544 72.4(5) ?
+    O1 Al4 O1 172 27_544 109.31(9) ?
+    O1 Al4 O1 121 27_544 109.31(9) ?
+    Al2 Al4 O1 3_545 27_544 176.3(11) ?
+    Al2 Al4 O1 74_454 27_544 67.66(5) ?
+    Al3 Al4 O1 76_445 50_454 72.4(5) ?
+    Al3 Al4 O1 . 50_454 72.4(5) ?
+    O1 Al4 O1 172 50_454 109.31(9) ?
+    O1 Al4 O1 121 50_454 109.31(9) ?
+    Al2 Al4 O1 3_545 50_454 67.66(5) ?
+    Al2 Al4 O1 74_454 50_454 176.3(11) ?
+    O1 Al4 O1 27_544 50_454 116.1(12) ?
+    Al3 Al4 Al1 76_445 . 55.2(6) ?
+    Al3 Al4 Al1 . . 55.2(6) ?
+    O1 Al4 Al1 172 . 128.6(6) ?
+    O1 Al4 Al1 121 . 128.6(6) ?
+    Al2 Al4 Al1 3_545 . 125.7(5) ?
+    Al2 Al4 Al1 74_454 . 125.7(5) ?
+    O1 Al4 Al1 27_544 . 58.0(6) ?
+    O1 Al4 Al1 50_454 . 58.0(6) ?
+    Al3 Al4 Al4 76_445 106_566 54.5(3) ?
+    Al3 Al4 Al4 . 106_566 126.1(11) ?
+    O1 Al4 Al4 172 106_566 123.5(4) ?
+    O1 Al4 Al4 121 106_566 55.8(5) ?
+    Al2 Al4 Al4 3_545 106_566 124.4(11) ?
+    Al2 Al4 Al4 74_454 106_566 54.9(3) ?
+    O1 Al4 Al4 27_544 106_566 53.8(6) ?
+    O1 Al4 Al4 50_454 106_566 126.8(2) ?
+    Al1 Al4 Al4 . 106_566 90.5(6) ?
+    Al3 Al4 Al4 76_445 105 126.1(11) ?
+    Al3 Al4 Al4 . 105 54.5(3) ?
+    O1 Al4 Al4 172 105 55.8(5) ?
+    O1 Al4 Al4 121 105 123.5(4) ?
+    Al2 Al4 Al4 3_545 105 54.9(3) ?
+    Al2 Al4 Al4 74_454 105 124.4(11) ?
+    O1 Al4 Al4 27_544 105 126.8(2) ?
+    O1 Al4 Al4 50_454 105 53.8(6) ?
+    Al1 Al4 Al4 . 105 90.5(6) ?
+    Al4 Al4 Al4 106_566 105 179.1(12) ?
+    Al3 Al4 Al4 76_445 150_565 54.5(3) ?
+    Al3 Al4 Al4 . 150_565 126.1(11) ?
+    O1 Al4 Al4 172 150_565 123.5(4) ?
+    O1 Al4 Al4 121 150_565 55.8(5) ?
+    Al2 Al4 Al4 3_545 150_565 54.9(3) ?
+    Al2 Al4 Al4 74_454 150_565 124.4(11) ?
+    O1 Al4 Al4 27_544 150_565 126.8(2) ?
+    O1 Al4 Al4 50_454 150_565 53.8(6) ?
+    Al1 Al4 Al4 . 150_565 90.5(6) ?
+    Al4 Al4 Al4 106_566 150_565 89.1(12) ?
+    Al4 Al4 Al4 105 150_565 90.9(12) ?
+data_global
+_journal_date_recd_electronic     2006-05-05
+_journal_date_accepted     2006-07-11
+_journal_name_full     'Acta Crystallographica, Section C'
+_journal_year     2006
+_journal_volume     62
+_journal_issue      9
+_journal_page_first     i83
+_journal_page_last     i84
+_journal_paper_category     FI
+_journal_coeditor_code     BC3006
+_publ_contact_author_name     'Lubomir Smrcok'
+_publ_contact_author_address
+;
+Institute of  Inorganic Chemistry
+Slovak Academy of Sciences
+D\'ubravsk\'a  cesta 9
+SK-845 36 Bratislava
+Slovak Republic
+;
+_publ_contact_author_email     uachsmrk@savba.sk
+_publ_contact_author_fax     42-2-59410444
+_publ_contact_author_phone     42-2-59410435
+_publ_section_title
+;
+\g-Alumina: a single-crystal X-ray diffraction study
+;
+loop_
+    _publ_author_name
+    _publ_author_address
+    "\<Lubom\'ir Smr\<cok "
+;
+Institute of  Inorganic Chemistry
+Slovak Academy of Sciences
+D\'ubravsk\'a  cesta 9
+SK-845 36 Bratislava
+Slovak Republic
+;
+    'Vratislav Langer'
+;
+Environmental Inorganic Chemistry
+Department of Chemical and Biological Engineering
+Chalmers University of Technology
+SE-412 96 G\"oteborg
+Sweden
+;
+    "Jan K\<res\<tan"
+;Institute of  Inorganic Chemistry
+Slovak Academy of Sciences
+D\'ubravsk\'a  cesta 9
+SK-845 36 Bratislava
+Slovak Republic
+;
+_publ_section_synopsis
+;
+In addition tO1 the spinel-type 16<i>d</i> and 8<i>a</i> positions of the
+<i>Fd</i>\=3<i>m</i> space group, a small fraction of the Al ions in
+\g-alumina alsO1 occupy the non-spinel 6<i>c</i> and 48<i>f</i> positions.
+;
